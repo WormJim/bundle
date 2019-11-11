@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: just-the-docs
 aux_links:
   "Just the Docs on GitHub":
     - "//github.com/pmarsceill/just-the-docs"
